@@ -36,7 +36,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="text-2xl font-bold text-primary-600">Flux Med</div>
+            <div className="text-2xl font-bold text-primary-600">Queeeeeeen</div>
           </Link>
 
           {/* Desktop Navigation */}
@@ -109,3 +109,4 @@ export default function Header() {
     </header>
   )
 }
+
