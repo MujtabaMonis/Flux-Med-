@@ -6,7 +6,7 @@ import { ArrowRight, Shield, Clock, TrendingUp, Users } from 'lucide-react'
 
 export default function Hero() {
   const stats = [
-    { icon: Users, value: '500+', label: 'Physicians Served' },
+    { icon: Users, value: '50+', label: 'Physicians Served' },
     { icon: Clock, value: '<24hrs', label: 'Response Time' },
     { icon: TrendingUp, value: '30%', label: 'Revenue Increase' },
     { icon: Shield, value: '100%', label: 'HIPAA Compliant' },
