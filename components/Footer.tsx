@@ -80,8 +80,8 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-primary-400 mt-0.5 flex-shrink-0" />
-                <a href="mailto:info@fluxmed.com" className="hover:text-primary-400 transition-colors">
-                  info@fluxmed.com
+                <a href="mailto:Info.fluxmed@gmail.com" className="hover:text-primary-400 transition-colors">
+                  Info.fluxmed@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
