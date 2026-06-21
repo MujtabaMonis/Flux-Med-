@@ -247,7 +247,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-slate-900 mb-1">Email</h3>
-                      <a href="mailto:info@fluxmed.com" className="text-primary-600 hover:text-primary-700">
+                      <a href="mailto:Info.fluxmed@gmail.com" className="text-primary-600 hover:text-primary-700">
                         info@fluxmed.com
                       </a>
                     </div>
