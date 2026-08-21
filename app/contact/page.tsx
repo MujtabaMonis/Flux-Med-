@@ -261,14 +261,26 @@ export default function ContactPage() {
                     className="flex items-start gap-4 p-6 bg-slate-50 rounded-xl"
                   >
                     <div className="p-3 bg-primary-100 rounded-lg">
-                      <Phone className="w-6 h-6 text-primary-600" />
-                    </div>
-                    <div>
-                      <h3 className="font-semibold text-slate-900 mb-1">Phone</h3>
-                      <a href="tel:+1-555-000-0000" className="text-primary-600 hover:text-primary-700">
-                        +1 (561) 207-1368
-                      </a>
-                    </div>
+  <Phone className="w-6 h-6 text-primary-600" />
+</div>
+
+<div>
+  <h3 className="font-semibold text-slate-900 mb-1">Phone</h3>
+
+  <a
+    href="tel:+ +92 331 1377065"
+    className="text-primary-600 hover:text-primary-700 block"
+  >
+    +92 331 1377065
+  </a>
+
+  <a
+    href="tel+1 (561) 207-1368"
+    className="text-primary-600 hover:text-primary-700 block mt-1"
+  >
+    +1 (561) 207-1368
+  </a>
+</div>
                   </motion.div>
 
                   <motion.div
