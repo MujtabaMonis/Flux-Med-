@@ -274,12 +274,7 @@ export default function ContactPage() {
     +92 331 1377065
   </a>
 
-  <a
-    href="tel+1 (561) 207-1368"
-    className="text-primary-600 hover:text-primary-700 block mt-1"
-  >
-    +1 (561) 207-1368
-  </a>
+ 
 </div>
                   </motion.div>
 
