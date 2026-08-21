@@ -229,7 +229,7 @@ export default function PrivacyPage() {
                 <div className="mt-4">
                   <p className="font-semibold text-slate-900">Flux Med Privacy Officer</p>
                   <p>Email: privacy@fluxmed.com</p>
-                  <p>Phone: +1 (555) 000-0000</p>
+                  
                 </div>
                 <p className="text-sm text-slate-600 mt-4">
                   Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
